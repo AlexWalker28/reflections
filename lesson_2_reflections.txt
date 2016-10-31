@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git file adds to directory and gonna save metadata of this repository.
+I need it to save history of file changes.
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+ Staging area temporary stores files that will (or won't) be  commited later.
+ Working directory and repository are "final" storages for files. 
