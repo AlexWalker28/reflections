@@ -7,3 +7,6 @@ How is the staging area different from the working directory and the repository?
  What value do you think it offers?
  Staging area temporary stores files that will (or won't) be  commited later.
  Working directory and repository are "final" storages for files. 
+
+ How can you use the staging area to make sure you have one commit per logical change?
+ I can use -diffs all the way to make sure. 
