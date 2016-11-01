@@ -17,3 +17,7 @@ How is the staging area different from the working directory and the repository?
  It would help when i decide to make some experimental changes to my code, which I'm not
  completely sure will work or for any other reason don't want in my main code yet. Braches
  allows to do it easily. 
+
+ How do the diagrams help you visualize the branch structure?
+With diagrams It's reaaly clear how history of commits in different
+branches looks like. Helpful for avoiding making unreachable commits. 
