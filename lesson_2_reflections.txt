@@ -20,4 +20,9 @@ How is the staging area different from the working directory and the repository?
 
  How do the diagrams help you visualize the branch structure?
 With diagrams It's reaaly clear how history of commits in different
-branches looks like. Helpful for avoiding making unreachable commits. 
+branches looks like. Helpful for avoiding making unreachable commits.
+
+What is the result of merging two branches together? Why do we represent it in
+ the diagram the way we do? 
+ 
+ It makes one branch with the history of two merged. Because that's how it is. 
