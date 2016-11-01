@@ -10,3 +10,10 @@ How is the staging area different from the working directory and the repository?
 
  How can you use the staging area to make sure you have one commit per logical change?
  I can use -diffs all the way to make sure. 
+ 
+ What are some situations when branches would be helpful in keeping your history organized?
+ How would branches help?
+ 
+ It would help when i decide to make some experimental changes to my code, which I'm not
+ completely sure will work or for any other reason don't want in my main code yet. Braches
+ allows to do it easily. 
