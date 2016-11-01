@@ -26,3 +26,7 @@ What is the result of merging two branches together? Why do we represent it in
  the diagram the way we do? 
  
  It makes one branch with the history of two merged. Because that's how it is. 
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ Pros are that it makes it fast, cons are conflicts that could occur.
