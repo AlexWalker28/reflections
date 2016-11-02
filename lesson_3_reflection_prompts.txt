@@ -7,3 +7,6 @@ Forks are "clones" of repository on GitHub. Clones are copied repositories on lo
 Branches are branches. 
 I would use branches when I want to try something I'm not sure will work or just wanna try something,
 clones if I need copy of directory, forks if author needs recognition.  
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So i can compare my code to that state without Internet connection.  
