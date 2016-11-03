@@ -10,3 +10,6 @@ clones if I need copy of directory, forks if author needs recognition.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So i can compare my code to that state without Internet connection.  
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Probably I would just send files via mail or something like that. Probably everything would be harder. 
