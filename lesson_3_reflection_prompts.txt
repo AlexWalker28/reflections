@@ -13,3 +13,5 @@ So i can compare my code to that state without Internet connection.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Probably I would just send files via mail or something like that. Probably everything would be harder. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
